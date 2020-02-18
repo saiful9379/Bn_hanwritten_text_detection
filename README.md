@@ -6,6 +6,7 @@ The DBnet model was trained by my custom Bangli handwritten or Font image datase
 - torch == 1.4.0
 - pytorch 1.1.0
 - torchvision == 0.5.0
+- pyclipper
 - colorlog 
 - polygon3 
 - opencv-python
