@@ -18,7 +18,10 @@ so the txt file annotation like this,
 x,y,w,h convert below coordinate
 x1,y1,x2,y2,x3,y3,x4,y4 = x,y,x+w,y,x+w,y+h,x,y+h
 ```
+# Data Preparetion
 
+Go datasets folder and run ```data_preprocess.py```. it generate individual txt file corresponding to each image.
+like as,
 ```
 datasets
 ├── test.txt
@@ -34,3 +37,37 @@ datasets
     └── img
         └── 3648c8fb0771c3dd91fd3321b70bc0ca.jpg
 ```
+then run ```get_txt.py``` it generate train.txt and text.txt list.
+
+After generate ```train.txt``` and ```test.txt``` list modify the ```config.json``` file line 9 and 15.
+```
+"train_data_path": [
+                    [
+                        "./datasets/train.txt"
+                    ]
+                ],
+                
+  
+and
+
+ "val_data_path": "./datasets/test.txt", 
+```
+# Traning
+Run,
+```
+train.py
+
+```
+
+# Inference
+For Single test dowload [pretrain model](https://drive.google.com/file/d/1AwieLtflhmCk2cOYCJA6VztvqhW44FFX/view?usp=sharing).Make sure the pretrain model path.
+And Run,
+```
+predict.py
+
+```
+# Test Result
+
+![image](logs/image_1.jpg)
+
+
