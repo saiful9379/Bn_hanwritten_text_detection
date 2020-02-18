@@ -4,6 +4,7 @@ The DBnet model was trained by my custom Bangli handwritten or Font image datase
 # Dependency
 - python == 3.6
 - torch == 1.4.0
+- pytorch 1.1.0
 - torchvision == 0.5.0
 - colorlog 
 - polygon3 
@@ -15,9 +16,7 @@ Convert the vgg annotation into 8 coordinate.
 so the txt file annotation like this,
 ```
 x,y,w,h convert below coordinate
-
-w,h = x+weight,y+height
-x1,y1,x2,y2,x3,y3,x4,y4 = x,y,w,y,w,h,x,h
+x1,y1,x2,y2,x3,y3,x4,y4 = x,y,x+w,y,x+w,y+h,x,y+h
 ```
 
 ```
