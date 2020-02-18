@@ -1,0 +1,22 @@
+./datasets/train/img/768e22f576f21533edae7bee987ec4b0.jpg	./datasets/train/gt/768e22f576f21533edae7bee987ec4b0.txt
+./datasets/train/img/d374802ab9f86e87eb6e26bf8055d4a0.jpg	./datasets/train/gt/d374802ab9f86e87eb6e26bf8055d4a0.txt
+./datasets/train/img/d6f3bd988aae09690c60a813e44157b3.jpg	./datasets/train/gt/d6f3bd988aae09690c60a813e44157b3.txt
+./datasets/train/img/cafeVar2Default.jpg	./datasets/train/gt/cafeVar2Default.txt
+./datasets/train/img/business2Default.jpg	./datasets/train/gt/business2Default.txt
+./datasets/train/img/7d951b8df888a0a166595cc0a33393be.jpg	./datasets/train/gt/7d951b8df888a0a166595cc0a33393be.txt
+./datasets/train/img/823de9a129bc0f288639d221e4119470.jpg	./datasets/train/gt/823de9a129bc0f288639d221e4119470.txt
+./datasets/train/img/cafe2Default.png	./datasets/train/gt/cafe2Default.txt
+./datasets/train/img/download (1).png	./datasets/train/gt/download (1).txt
+./datasets/train/img/11b2e8556cc7f36da563dfafc447f4da.jpg	./datasets/train/gt/11b2e8556cc7f36da563dfafc447f4da.txt
+./datasets/train/img/1698471b20f9f93dbebb34a781648454.jpg	./datasets/train/gt/1698471b20f9f93dbebb34a781648454.txt
+./datasets/train/img/4089c4d63583342f87c68cd3fbf1ae3b.jpg	./datasets/train/gt/4089c4d63583342f87c68cd3fbf1ae3b.txt
+./datasets/train/img/95f8f07eaf103282dbd9518ab8175931.jpg	./datasets/train/gt/95f8f07eaf103282dbd9518ab8175931.txt
+./datasets/train/img/2570-pour-deux-avec-taxe.jpg	./datasets/train/gt/2570-pour-deux-avec-taxe.txt
+./datasets/train/img/adda9324cb9a9871b394cc31ced9c55b.jpg	./datasets/train/gt/adda9324cb9a9871b394cc31ced9c55b.txt
+./datasets/train/img/c492adcad8d33bc420c3f881b50b10ba.jpg	./datasets/train/gt/c492adcad8d33bc420c3f881b50b10ba.txt
+./datasets/train/img/44119a57b07cfa19a7e8fec085391742.jpg	./datasets/train/gt/44119a57b07cfa19a7e8fec085391742.txt
+./datasets/train/img/c31b76150175d3a5d4a2f89bbec2cafa.jpg	./datasets/train/gt/c31b76150175d3a5d4a2f89bbec2cafa.txt
+./datasets/train/img/4dca5cab9f434ee983a52df54125f72f.jpg	./datasets/train/gt/4dca5cab9f434ee983a52df54125f72f.txt
+./datasets/train/img/download.png	./datasets/train/gt/download.txt
+./datasets/train/img/7cf89a8f4cdc02c64192c315065c0bbf.jpg	./datasets/train/gt/7cf89a8f4cdc02c64192c315065c0bbf.txt
+./datasets/train/img/business2Default (1).jpg	./datasets/train/gt/business2Default (1).txt

@@ -1,0 +1,2010 @@
+{
+    "3a583cf00904906cd622e8674e9b2b14.jpg18479": {
+        "filename": "3a583cf00904906cd622e8674e9b2b14.jpg",
+        "size": 18479,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 85,
+                    "width": 49,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 146,
+                    "y": 85,
+                    "width": 43,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 100,
+                    "width": 34,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 103,
+                    "width": 49,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 154,
+                    "y": 103,
+                    "width": 62,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 118,
+                    "width": 35,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 119,
+                    "width": 48,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 172,
+                    "y": 117,
+                    "width": 23,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 139,
+                    "width": 64,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 138,
+                    "width": 42,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 153,
+                    "width": 33,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 153,
+                    "width": 72,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 168,
+                    "width": 28,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 169,
+                    "width": 62,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 195,
+                    "width": 26,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 194,
+                    "width": 29,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 232,
+                    "y": 194,
+                    "width": 20,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 285,
+                    "width": 58,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 213,
+                    "width": 13,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 212,
+                    "width": 40,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 214,
+                    "width": 39,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 213,
+                    "width": 25,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 225,
+                    "width": 35,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 224,
+                    "width": 35,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 225,
+                    "width": 11,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 236,
+                    "width": 9,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 248,
+                    "width": 8,
+                    "height": 8
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 258,
+                    "width": 7,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 236,
+                    "width": 26,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 236,
+                    "width": 21,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 236,
+                    "width": 26,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 235,
+                    "width": 55,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 247,
+                    "width": 26,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 248,
+                    "width": 89,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 259,
+                    "width": 26,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 258,
+                    "width": 30,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 209,
+                    "y": 285,
+                    "width": 60,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 246,
+                    "y": 258,
+                    "width": 31,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 246,
+                    "y": 213,
+                    "width": 30,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 245,
+                    "y": 225,
+                    "width": 32,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 240,
+                    "y": 236,
+                    "width": 39,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 241,
+                    "y": 247,
+                    "width": 38,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 319,
+                    "width": 59,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 333,
+                    "width": 22,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 348,
+                    "width": 45,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 212,
+                    "y": 318,
+                    "width": 38,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211,
+                    "y": 333,
+                    "width": 36,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 210,
+                    "y": 347,
+                    "width": 39,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 452,
+                    "width": 160,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "layout": "Image"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "3648c8fb0771c3dd91fd3321b70bc0ca.jpg17604": {
+        "filename": "3648c8fb0771c3dd91fd3321b70bc0ca.jpg",
+        "size": 17604,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 6,
+                    "width": 40,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 6,
+                    "width": 47,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 215,
+                    "y": 7,
+                    "width": 37,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 26,
+                    "width": 35,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151,
+                    "y": 25,
+                    "width": 65,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 26,
+                    "width": 44,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 44,
+                    "width": 73,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 206,
+                    "y": 44,
+                    "width": 39,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 87,
+                    "width": 39,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 105,
+                    "width": 43,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 125,
+                    "width": 20,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 141,
+                    "width": 40,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 311,
+                    "y": 87,
+                    "width": 48,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 311,
+                    "y": 105,
+                    "width": 46,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 309,
+                    "y": 123,
+                    "width": 49,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 314,
+                    "y": 143,
+                    "width": 47,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 240,
+                    "y": 176,
+                    "width": 118,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 212,
+                    "width": 30,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 212,
+                    "width": 36,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 174,
+                    "y": 213,
+                    "width": 22,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 201,
+                    "y": 212,
+                    "width": 28,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 233,
+                    "y": 211,
+                    "width": 45,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 230,
+                    "width": 20,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 233,
+                    "width": 42,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151,
+                    "y": 232,
+                    "width": 27,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 189,
+                    "y": 232,
+                    "width": 30,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 222,
+                    "y": 232,
+                    "width": 66,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 283,
+                    "width": 146,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cafe2Default.png30057": {
+        "filename": "cafe2Default.png",
+        "size": 30057,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 615,
+                    "width": 148,
+                    "height": 32
+                },
+                "region_attributes": {
+                    "layout": "Image"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 40,
+                    "width": 34,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 39,
+                    "width": 53,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 165,
+                    "y": 39,
+                    "width": 66,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 63,
+                    "width": 43,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 63,
+                    "width": 101,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 206,
+                    "y": 65,
+                    "width": 46,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 81,
+                    "width": 83,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 177,
+                    "y": 81,
+                    "width": 24,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 106,
+                    "width": 57,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 106,
+                    "width": 63,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 11,
+                    "y": 122,
+                    "width": 39,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 136,
+                    "width": 31,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 137,
+                    "width": 27,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 136,
+                    "width": 63,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 152,
+                    "width": 28,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 153,
+                    "width": 35,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 232,
+                    "y": 149,
+                    "width": 25,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 177,
+                    "width": 10,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 175,
+                    "width": 57,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211,
+                    "y": 175,
+                    "width": 48,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 192,
+                    "width": 10,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 11,
+                    "y": 205,
+                    "width": 13,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 218,
+                    "width": 16,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 11,
+                    "y": 231,
+                    "width": 12,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 205,
+                    "width": 22,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 204,
+                    "width": 51,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 230,
+                    "width": 41,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 191,
+                    "width": 38,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 192,
+                    "width": 22,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 191,
+                    "width": 32,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 216,
+                    "width": 67,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 216,
+                    "y": 191,
+                    "width": 39,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 220,
+                    "y": 205,
+                    "width": 37,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 218,
+                    "y": 217,
+                    "width": 37,
+                    "height": 9
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 220,
+                    "y": 229,
+                    "width": 35,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 171,
+                    "y": 296,
+                    "width": 64,
+                    "height": 21
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 298,
+                    "width": 38,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 316,
+                    "width": 92,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 335,
+                    "width": 62,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 338,
+                    "width": 45,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 354,
+                    "width": 26,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 368,
+                    "width": 51,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 200,
+                    "y": 353,
+                    "width": 34,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 368,
+                    "width": 41,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 403,
+                    "width": 71,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 403,
+                    "width": 62,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 421,
+                    "width": 33,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 422,
+                    "width": 24,
+                    "height": 10
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 437,
+                    "width": 35,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 436,
+                    "width": 29,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 178,
+                    "y": 420,
+                    "width": 41,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 177,
+                    "y": 436,
+                    "width": 40,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 179,
+                    "y": 450,
+                    "width": 39,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 451,
+                    "width": 39,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 451,
+                    "width": 25,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 492,
+                    "width": 31,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 534,
+                    "width": 49,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "parkingDefault.jpg28848": {
+        "filename": "parkingDefault.jpg",
+        "size": 28848,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 63,
+                    "width": 56,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 62,
+                    "width": 49,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 84,
+                    "width": 93,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 101,
+                    "width": 129,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 117,
+                    "width": 43,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 117,
+                    "width": 52,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 133,
+                    "width": 40,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 133,
+                    "width": 20,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 137,
+                    "y": 133,
+                    "width": 75,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 150,
+                    "width": 26,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 149,
+                    "width": 29,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 152,
+                    "y": 151,
+                    "width": 41,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 166,
+                    "width": 35,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 166,
+                    "width": 30,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 144,
+                    "y": 167,
+                    "width": 32,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 180,
+                    "y": 166,
+                    "width": 51,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 182,
+                    "width": 49,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 153,
+                    "y": 183,
+                    "width": 23,
+                    "height": 11
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 199,
+                    "width": 110,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 226,
+                    "width": 56,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 132,
+                    "y": 225,
+                    "width": 30,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 165,
+                    "y": 225,
+                    "width": 40,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 242,
+                    "width": 148,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 269,
+                    "width": 190,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 314,
+                    "width": 47,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 314,
+                    "width": 35,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 140,
+                    "y": 314,
+                    "width": 37,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 180,
+                    "y": 313,
+                    "width": 21,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 203,
+                    "y": 312,
+                    "width": 24,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 331,
+                    "width": 90,
+                    "height": 13
+                },
+                "region_attributes": {
+                    "layout": "Text"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}

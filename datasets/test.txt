@@ -1,0 +1,4 @@
+./datasets/val/img/cafe2Default.png	./datasets/val/gt/cafe2Default.txt
+./datasets/val/img/3a583cf00904906cd622e8674e9b2b14.jpg	./datasets/val/gt/3a583cf00904906cd622e8674e9b2b14.txt
+./datasets/val/img/parkingDefault.jpg	./datasets/val/gt/parkingDefault.txt
+./datasets/val/img/3648c8fb0771c3dd91fd3321b70bc0ca.jpg	./datasets/val/gt/3648c8fb0771c3dd91fd3321b70bc0ca.txt
