@@ -70,4 +70,12 @@ predict.py
 
 ![image](logs/image_1.jpg)
 
+PyTorch re-implementation of Real-time Scene Text Detection with Differentiable Binarization
+
+Following this git
+- [SURFZJY](https://github.com/SURFZJY/Real-time-Text-Detection)
+- [MhLiao](https://github.com/MhLiao/DB)
+- [WenmuZhou](https://github.com/WenmuZhou/DBNet.pytorch)
+
+
 
